@@ -7,7 +7,7 @@ Een eenvoudig geheugenspel waarbij spelers paren van kaarten moeten vinden.
 1. **Doel van het spel:**
    - Draai kaarten om en probeer paren te vinden met hetzelfde afbeelding.
 
-2. **Hoe te spelen:**
+2. **Hoe moet je het spelen:**
    - Klik op een kaart om deze om te draaien.
    - Klik op een andere kaart om te zien of ze overeenkomen.
    - Als de kaarten overeenkomen, blijven ze omgedraaid. Anders worden ze weer teruggedraaid.
